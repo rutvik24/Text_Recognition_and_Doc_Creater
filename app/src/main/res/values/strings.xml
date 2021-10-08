@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OCR</string>
+    <string name="create_doc_file_with_text">Create Doc File With Text</string>
+    <string name="image_preview">Image Preview</string>
+</resources>
