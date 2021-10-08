@@ -36,7 +36,10 @@
                         android:layout_marginStart="10dp"
                         android:layout_marginEnd="5dp"
                         android:elevation="4dp"
+                        android:background="@drawable/border"
+                        android:clickable="true"
                         app:cardBackgroundColor="@color/background_card"
+                        android:foreground="?android:attr/selectableItemBackground"
                         app:cardCornerRadius="10dp">
 
                         <ImageView
@@ -63,7 +66,10 @@
                         android:layout_marginStart="5dp"
                         android:layout_marginEnd="10dp"
                         android:elevation="4dp"
+                        android:background="@drawable/border"
+                        android:clickable="true"
                         app:cardBackgroundColor="@color/background_card"
+                        android:foreground="?android:attr/selectableItemBackground"
                         app:cardCornerRadius="10dp">
 
                         <ImageView
